@@ -1,0 +1,151 @@
+﻿Camera,Megapixels,Optical Image Stabilization,Autofocus,Depth Sensor,High Dynamic Range,Flash,Aperture,Battery Consumption,Security
+Samsung Galaxy A72 main 1,64,1,1,0,1,1,1.8,10,6
+Samsung Galaxy A72 main 2,8,1,0,0,1,1,2.4,1,3
+Samsung Galaxy A72 main 3,12,0,0,0,1,1,2.2,1,4
+Samsung Galaxy A72 main 4,5,0,0,0,1,1,2.4,5,2
+Samsung Galaxy A72 selfie,32,0,0,0,1,0,2.2,7,2
+Samsung Galaxy Xcover 5 main,16,0,1,0,1,1,1.8,8,1
+Samsung Galaxy Xcover 5 selfie,5,0,0,0,0,0,2.2,10,10
+Samsung Galaxy M62 main 1,64,0,1,0,1,1,1.8,7,5
+Samsung Galaxy M62 main 2,12,0,0,0,1,1,2.2,5,3
+Samsung Galaxy M62 main 3,5,0,0,0,1,1,2.4,5,2
+Samsung Galaxy M62 main 4,5,0,0,1,1,1,2.4,3,7
+Samsung Galaxy M62 selfie,32,0,0,0,1,0,2.2,9,4
+Samsung Galaxy S21 Ultra 5G main 1,108,1,1,0,1,1,1.8,7,1
+Samsung Galaxy S21 Ultra 5G main 2,10,1,1,0,1,1,4.9,7,3
+Samsung Galaxy S21 Ultra 5G main 3,10,1,1,0,1,1,2.4,6,3
+Samsung Galaxy S21 Ultra 5G main 4,12,0,1,0,1,1,2.2,8,8
+Samsung Galaxy S21 Ultra 5G selfie,40,0,0,0,1,0,2.2,2,7
+Samsung Galaxy M02s main 1,12,0,1,0,0,1,2.2,5,8
+Samsung Galaxy M02s main 2,2,0,0,0,0,1,2.4,3,7
+Samsung Galaxy M02s main 3,2,0,0,1,0,1,2.4,2,4
+Samsung Galaxy M02s selfie,5,0,0,0,0,0,2.2,1,9
+Samsung Galaxy F41 main 1,64,0,1,0,1,1,1.8,9,3
+Samsung Galaxy F41 main 2,8,0,0,0,1,1,2.2,4,2
+Samsung Galaxy F41 main 3,5,0,0,1,1,1,2.4,4,5
+Samsung Galaxy F41 selfie,32,0,0,0,1,0,2,1,8
+Samsung Galaxy Tab Active3 main,13,0,1,0,1,1,1.9,3,8
+Samsung Galaxy Tab Active3 selfie,5,0,0,0,0,0,2.2,5,5
+Samsung Galaxy S20 FE 5G main 1,12,1,1,0,1,1,1.8,5,3
+Samsung Galaxy S20 FE 5G main 2,8,0,1,0,1,1,2.4,5,8
+Samsung Galaxy S20 FE 5G main 3,12,0,0,0,1,1,2.2,5,4
+Samsung Galaxy S20 FE 5G selfie,32,0,0,0,1,0,2.2,7,5
+Samsung Galaxy Z Fold2 5G main 1,12,1,1,0,1,1,1.8,2,10
+Samsung Galaxy Z Fold2 5G main 2,12,1,1,0,1,1,2.4,8,3
+Samsung Galaxy Z Fold2 5G main 3,12,0,0,0,1,1,2.2,5,10
+Samsung Galaxy Z Fold2 5G selfie 1,10,0,0,0,1,0,2.2,5,10
+Samsung Galaxy Z Fold2 5G selfie 2,10,0,0,0,1,0,2.2,7,6
+Samsung Galaxy Note 20 Ultra main 1,108,1,1,0,1,1,1.8,2,3
+Samsung Galaxy Note 20 Ultra main 2,12,1,1,0,1,1,3,3,7
+Samsung Galaxy Note 20 Ultra main 3,12,0,0,0,1,1,2.2,3,9
+Samsung Galaxy Note 20 Ultra selfie,10,0,1,0,1,0,2.2,5,6
+Apple iPhone 12 Pro Max main 1,12,1,1,1,1,1,1.6,3,8
+Apple iPhone 12 Pro Max main 2,12,1,1,1,1,1,2.2,7,6
+Apple iPhone 12 Pro Max main 3,12,0,0,1,1,1,2.4,8,7
+Apple iPhone 12 Pro Max selfie,12,0,0,1,1,0,2.2,7,7
+Apple iPad Air 2020 main ,12,0,1,0,1,0,1.8,2,6
+Apple iPad Air 2020 selfie,7,0,0,0,1,0,2,4,3
+Apple iPhone SE 2020 main,12,1,1,0,1,1,1.8,5,3
+Apple iPhone SE 2020 selfie,7,0,0,0,1,0,2.2,1,4
+Apple iPad pro 12.9 main 1,12,0,1,1,1,1,1.8,9,9
+Apple iPad pro 12.9 main 2,12,0,0,1,1,1,2.4,4,2
+Apple iPad pro 12.9 selfie ,7,0,0,0,1,0,2.2,8,10
+Apple iPhone 11 Pro Max main 1,12,1,1,0,1,1,1.8,1,5
+Apple iPhone 11 Pro Max main 2,12,1,1,0,1,1,2,3,7
+Apple iPhone 11 Pro Max main 3,12,0,0,0,1,1,2.4,9,5
+Apple iPhone 11 Pro Max selfie,12,0,0,0,1,0,2.2,1,6
+Apple iPad Air 2019 main,8,0,1,0,1,0,2.4,4,1
+Apple iPad Air 2019 selfie,7,0,0,0,1,0,2.2,9,1
+Apple iPhone XS Max main 1,12,1,1,0,1,1,1.8,1,4
+Apple iPhone XS Max main 2,12,1,1,0,1,1,2.4,9,7
+Apple iPhone XS Max selfie,7,0,0,1,1,0,2.2,5,10
+Apple iPhone XR main,12,1,1,0,1,1,1.8,9,9
+Apple iPhone XR selfie,7,0,0,1,1,0,2.2,10,5
+Apple iPhone X main 1,12,1,1,0,1,1,1.8,4,1
+Apple iPhone X main 2,12,1,1,0,1,1,2.4,3,4
+Apple iPhone X selfie,7,0,0,1,1,0,2.2,8,1
+Apple iPhone 8 Plus main 1,12,1,1,0,1,1,1.8,8,7
+Apple iPhone 8 Plus main 2,12,0,1,0,1,1,2.8,6,7
+Apple iPhone 8 Plus selfie,7,0,0,0,1,0,2.2,7,8
+Apple iPhone 6s plus main,12,1,1,0,1,1,2.2,5,8
+Apple iPhone 6s plus selfie,5,0,0,0,1,0,2.2,8,9
+Apple iPad Air 2 main,8,0,1,0,1,0,2.4,8,4
+Apple iPad Air 2 selfie,1.2,0,0,0,1,0,2.2,8,8
+Apple iPhone 6 plus main,8,1,1,0,1,1,2.2,10,4
+Apple iPhone 6 plus selfie,1.2,0,0,0,1,0,2.2,3,8
+Google Pixel 5 main 1,12.2,1,1,0,1,1,1.7,10,6
+Google Pixel 5 main 2,16,0,0,0,1,1,2.2,1,4
+Google Pixel 5 selfie,8,0,0,0,1,0,2,10,9
+Google Pixel 4 main 1,12.2,1,1,0,1,1,1.7,8,1
+Google Pixel 4 main 2,16,1,1,0,1,1,2.4,2,6
+Google Pixel 4 selfie,8,0,0,1,1,0,2,8,5
+Google Pixel 3 main ,12.2,1,1,0,1,1,1.8,8,1
+Google Pixel 3 selfie 1,8,0,1,0,1,0,1.8,5,5
+Google Pixel 3 selfie 2,8,0,0,0,1,0,2.2,3,5
+Google Pixel 2 main ,12.2,1,1,0,1,1,1.8,10,6
+Google Pixel 2 selfie ,8,0,0,0,1,0,2.4,10,7
+Google Pixel  main ,12.3,0,1,0,1,1,2,7,9
+Google Pixel selfie ,8,0,0,0,0,0,2.4,8,10
+Google Pixel  C main,8,0,0,0,0,0,2.4,3,5
+Google Pixel  C selfie,2,0,0,0,0,0,2.4,4,6
+Moto G100 main 1,64,0,1,0,1,1,1.7,9,1
+Moto G100 main 2,16,0,1,0,1,1,2.2,2,5
+Moto G100 main 3,2,0,0,1,1,1,2.4,5,8
+Moto G100 selfie 1,16,0,0,0,1,0,2.2,7,9
+Moto G100 selfie 2,8,0,0,0,1,0,2.4,6,9
+Moto G50 main 1,48,0,1,0,1,1,1.7,2,2
+Moto G50 main 2,5,0,0,0,1,1,2.4,6,3
+Moto G50 main 3,2,0,0,1,1,1,2.4,8,9
+Moto G50 selfie 1,13,0,0,0,1,0,2.2,10,4
+Moto E7 main 1,48,0,1,0,1,1,1.7,9,3
+Moto E7 main 2,2,0,0,0,1,1,2.4,3,9
+Moto E7 selfie 1,5,0,0,0,1,0,2.2,9,2
+Moto G 5G main 1,48,0,1,0,1,1,1.7,2,5
+Moto G 5G main 2,8,0,0,0,1,1,2.2,1,3
+Moto G 5G main 3,2,0,1,0,1,1,2.4,1,10
+Moto G 5G selfie 1,16,0,0,0,1,0,2.2,6,1
+Moto G9 Power main 1,64,0,1,0,1,1,1.8,9,4
+Moto G9 Power main 2,2,0,1,0,1,1,2.4,1,1
+Moto G9 Power main 3,2,0,0,1,1,1,2.4,10,2
+Moto G9 Power selfie 1,16,0,0,0,1,0,2.2,3,10
+Motorola Razr 5G main,48,1,1,0,1,1,1.7,4,9
+Motorola Razr 5G selfie,20,0,0,0,1,0,2.2,4,6
+Motorola One 5G main 1,48,0,1,0,1,1,1.8,4,5
+Motorola One 5G main 2,8,0,0,0,1,1,2.2,9,6
+Motorola One 5G main 3,5,0,1,0,1,1,2.2,9,9
+Motorola One 5G main 4,2,0,0,1,1,1,2.2,5,1
+Motorola One 5G selfie 1,16,0,0,0,1,0,2,4,1
+Motorola One 5G selfie 2,8,0,0,0,1,0,2.2,1,3
+Motorola One Fusion main 1,48,0,1,0,1,1,1.7,8,5
+Motorola One Fusion main 2,8,0,0,0,1,1,2.2,3,1
+Motorola One Fusion main 3,5,0,0,0,1,1,2.2,8,2
+Motorola One Fusion main 4,2,0,0,1,1,1,2.2,2,8
+Motorola One Fusion selfie,8,0,0,0,0,0,2,8,7
+Moto Z4 main,48,1,1,0,1,1,1.7,8,3
+Moto Z4 selfie,25,0,0,0,1,0,2,10,6
+Motorola P30 main 1,16,0,1,0,1,1,1.8,2,6
+Motorola P30 main 2,5,0,0,1,1,1,2.2,5,4
+Motorola P30 selfie,12,0,0,0,0,1,1.9,7,1
+OnePlus 9 Pro main 1,48,1,1,0,1,1,1.8,1,10
+OnePlus 9 Pro main 2,8,1,1,0,1,1,2.4,2,4
+OnePlus 9 Pro main 3,50,0,0,0,1,1,2.2,9,9
+OnePlus 9 Pro main 4,2,0,0,1,1,1,2.4,7,3
+OnePlus 9 Pro selfie,16,0,0,0,1,0,2.4,10,4
+OnePlus Nord N100 main 1,13,0,1,0,1,1,2.2,7,9
+OnePlus Nord N100 main 2,2,0,0,0,1,1,2.4,8,10
+OnePlus Nord N100 main 3,2,0,0,1,1,1,2.4,5,3
+OnePlus Nord N100 selfie 1,8,0,0,0,1,0,2,6,9
+OnePlus 8T main 1,48,1,1,0,1,1,1.7,9,4
+OnePlus 8T main 2,16,0,0,0,1,1,2.2,2,6
+OnePlus 8T main 3,5,0,0,0,1,1,2.4,8,7
+OnePlus 8T main 4,2,0,0,1,1,1,2.4,8,9
+OnePlus 8T selfie,16,0,0,0,1,0,2.4,7,8
+OnePlus 7T main 1,48,1,1,0,1,1,1.6,2,10
+OnePlus 7T main 2,12,0,1,0,1,1,2.2,9,10
+OnePlus 7T main 3,16,0,1,0,1,1,2.2,4,1
+OnePlus 7T selfie,16,0,0,0,1,0,2,6,8
+OnePlus 5T main 1,16,0,1,0,1,1,1.7,8,6
+OnePlus 5T main 2,20,0,1,0,1,1,1.7,8,3
+OnePlus 5T selfie,16,0,0,0,1,0,2,6,5
+OnePlus One main,13,0,1,0,1,1,2,8,3
+OnePlus One selfie,5,0,0,0,0,0,2,1,7
